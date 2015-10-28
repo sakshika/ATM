@@ -1,7 +1,7 @@
 #!/bin/sh
 cd /opt
 which composer 
-composer config http-basic.example.org abhijeetka abhijeet123#
+composer config http-basic.example.org sakshika S@ksh!1991
 #composer config -g github-oauth.github.com <oauthtoken>
 composer update
 ant -version
