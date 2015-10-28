@@ -1,4 +1,5 @@
 vendor/*
+build/coverage
 build/api
 build/logs
 build/pdepend
